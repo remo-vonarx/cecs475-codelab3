@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MvcMovie/bin/Debug/netcoreapp3.1
+/MvcMovie/obj/Debug/netcoreapp3.1
+/MvcMovie/MvcMovie.csproj.user
