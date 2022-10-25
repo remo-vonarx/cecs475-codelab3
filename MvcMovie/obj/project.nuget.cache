@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+r8x3seSqlG/udhDw2GI2RU1J2n6WyHnHUpmpHFIeafBq9rdq2OuTJoSg8o46jtyWWGxlj62DnTTmz4SLpp3g==",
+  "dgSpecHash": "oImGUbvJwaEw/81u+K9/sOq4t1UI1KUTPyqWADYRsHUJDIug6r9F6y2cFuEj2gZNPfooDxwrTmjUC3rsEtEVDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\030788808\\source\\repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\030788808\\Source\\Repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\030788808\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\030788808\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

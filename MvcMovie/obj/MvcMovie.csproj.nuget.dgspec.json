@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\030788808\\source\\repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\030788808\\Source\\Repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\030788808\\source\\repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\030788808\\Source\\Repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\030788808\\source\\repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\030788808\\Source\\Repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\030788808\\source\\repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\030788808\\Source\\Repos\\cecs475-codelab3\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\030788808\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\030788808\\source\\repos\\cecs475-codelab3\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\030788808\\Source\\Repos\\cecs475-codelab3\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\030788808\\AppData\\Roaming\\NuGet\\NuGet.Config",
