@@ -148,7 +148,8 @@ namespace MvcMovie.Controllers
         }
 
         // GET: Movies/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        [HttpGet, ActionName("Delete")]
+        public async Task<IActionResult> ShowDeleteForm(int? id)
         {
             if (id == null)
             {
